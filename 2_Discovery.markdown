@@ -24,6 +24,9 @@ site:paypal.com -www.paypal.com -www.sandbox
 ## List of Mergers and Acquisitinos:
 https://en.wikipedia.org/wiki/List_of_mergers_and_acquisitions_by_Facebook
 
+## List of Facebook Bug Bounties:
+https://www.facebook.com/notes/phwd/facebook-bug-bounties/707217202701640
+
 ## Port Scanning
 Port scanning is not just for Netpen! A full port scan of all your new found targets will usually yield #win:
 
